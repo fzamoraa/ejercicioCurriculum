@@ -66,7 +66,9 @@ tfoot td:hover{
 /*odd: filas impares*/
 tbody tr:nth-child(odd):hover {
 background-color: rgb(113, 99, 63);
+cursor: pointer;
 }
 tbody tr:nth-child(even):hover {
 background-color: rgb(69, 74, 101);
+cursor: pointer;
 }
